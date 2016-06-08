@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:16.896216
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:52
 #+TITLE: 大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼
 #+PROPERTY: CBETA_ID T20n1113B
 #+PROPERTY: ID KR6j0324
