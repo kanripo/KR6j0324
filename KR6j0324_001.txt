@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:16.896216
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:52
 #+TITLE: 大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼
 #+PROPERTY: CBETA_ID T20n1113B
 #+PROPERTY: ID KR6j0324
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1113B
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0324_T_000-0498c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0324_T_001-0498c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1113B[cf.Nos.1111-1113A]¶
-
- 大慈大悲救苦觀世音自在王¶
+No. 1113B [cf. Nos. 1111-1113A]¶
+大慈大悲救苦觀世音自在王¶
 菩薩廣大圓滿無礙自在青頸¶
 大悲心陀羅尼¶
 ¶
@@ -229,7 +228,7 @@ No.1113B[cf.Nos.1111-1113A]¶
 
 此是呼八部鬼神。¶
 
-呼嚧呼嚧醯唎(三十九)(同上)¶
+呼嚧醯唎(三十九)(同上)¶
 
 <pb:KR6j0324_T_001-0500b>¶
 
